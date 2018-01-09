@@ -1,0 +1,4 @@
+inventory_id,product_qty,create_uid,product_id,location_id,product_uom_id,package_id
+25,55,root,180,15,1,1
+25,11,root,179,15,1,1
+25,44,root,181,15,1,1
